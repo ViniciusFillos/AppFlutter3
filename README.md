@@ -2,13 +2,6 @@
 
 Este é um aplicativo Flutter que permite ao usuário inserir e armazenar seu nome e idade utilizando `SharedPreferences`. Os dados são carregados automaticamente ao reiniciar o aplicativo.
 
-## Funcionalidades
-
-- Entrada de dados para nome e idade usando `TextFormField`.
-- Armazena as informações no dispositivo utilizando `SharedPreferences`.
-- Exibição dos dados armazenados na tela.
-- Os dados são recuperados automaticamente ao reiniciar o aplicativo.
-
 ## Requisitos do Aplicativo
 
 1. Criar uma tela que permita ao usuário salvar seu nome e idade usando `SharedPreferences`.
